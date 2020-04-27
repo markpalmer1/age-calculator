@@ -1,6 +1,6 @@
 # getting image
 FROM python:3
 
-ADD howlonghaveyoulived.py /
+ADD how-long-have-you-lived.py /
 
-CMD [ "python", "./howlonghaveyoulived.py" ]
+CMD [ "python", "./how-long-have-you-lived.py" ]
